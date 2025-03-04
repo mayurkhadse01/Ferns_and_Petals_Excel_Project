@@ -12,12 +12,15 @@ The sales analysis from Excel data provides critical insights into revenue trend
 
 ##  Revenue Trends: 
 Best-performing months: March & August (40% of total revenue)
+
 Low-performing months: April - June (25% decline)
 
 ## Occasion-Based Sales:
 **Top occasions:**
 Anniversary (18%), 
+
 Raksha Bandhan (17%),
+
 Holi (16%)
 
 **Underperforming Occasion:**
@@ -25,8 +28,15 @@ Diwali (9%) (Requires better promotions)
 Product Category Performance:
 
 ## Top-selling categories: 
-Colors (28%), Soft Toys (18%), Sweets (15%)
-Underperforming categories: Cakes, Mugs, Plants (only 20%)
+Colors (28%), 
+
+Soft Toys (18%), 
+
+Sweets (15%)
+
+Underperforming categories:
+Cakes, Mugs, Plants (only 20%)
+
 Peak Sales Time: 8 AM - 10 PM (50% of revenue generated)
 
 ## Top-performing cities:
