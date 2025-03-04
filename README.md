@@ -39,6 +39,5 @@ Focus marketing on peak hours (8 AM - 10 PM) for better conversions.
 
 Target high-order cities (Dhanbad, Imphal, Kavali) with localized promotions.
 
-**This analysis helps optimize business decisions, improve marketing strategies,
- and enhance revenue potential based on data-driven insights.
-**
+# This analysis helps optimize business decisions, improve marketing strategies,
+and enhance revenue potential based on data-driven insights.
