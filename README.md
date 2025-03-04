@@ -30,10 +30,15 @@ Dhanbad , Imphal, Kavali (30% of total orders)
 
 ## Action Plan:
 Optimize order delivery time to reduce delays.
+
 Increase Diwali promotions to boost sales.
+
 Expand high-demand categories (Colors, Soft Toys, Sweets).
+
 Focus marketing on peak hours (8 AM - 10 PM) for better conversions.
+
 Target high-order cities (Dhanbad, Imphal, Kavali) with localized promotions.
 
-This analysis helps optimize business decisions, improve marketing strategies, and enhance revenue potential based on data-driven insights.
+This analysis helps optimize business decisions, improve marketing strategies,
+ and enhance revenue potential based on data-driven insights.
 
