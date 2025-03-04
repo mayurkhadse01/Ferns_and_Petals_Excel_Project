@@ -3,6 +3,10 @@
 ## Project Overview  
 This project analyzes sales data from **Ferns and Petals**, identifying key revenue trends, product performance, and customer behavior. The insights help optimize marketing strategies, improve delivery efficiency, and enhance product offerings.  
 
+## FNP Dashboaard
+
+![Image Alt](https://github.com/mayurkhadse01/Ferns_and_Petals_Excel_Project/blob/9c62b2c8d67fa637ce68f4af61345010c0f43a32/Screenshot%202024-10-24%20160552.png)
+
 ## Conclusion 
 The sales analysis from Excel data provides critical insights into revenue trends, customer behavior, and product performance. The total revenue recorded is ₹35,20,984 from 1,000 orders, with an average customer spending of ₹3,520.98. The order-delivery time averages 5.53 days, indicating potential for improvement.
 
